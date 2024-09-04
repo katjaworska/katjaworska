@@ -1,8 +1,8 @@
 # My Software Tester Portfolio <br>
 ### ------------- Portfolio in work :) --------------<br>
 
-## About me <br><br>
-
+## About me <br>
+I'm a graduate of the Wrocław University of Science and Technology (Control Engineering and Robotics at Mechanical Faculty). I worked for a long time at Volvo Buses as a Process Engineer, but decided to change my career path to Software Testing. I found it very interesting and I want to deepen my knowledge in this field. <br>
 ## My skills <br>
 :eyes: perceptiveness and quick error detection (like typos, date mistakes) <br>
 :muscle: commitment <br>
