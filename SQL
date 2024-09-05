@@ -1,3 +1,0 @@
-select * from Tablica
-where City = "Wroclaw"
-order by City
