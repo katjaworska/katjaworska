@@ -3,10 +3,19 @@
 
 ## About me <br>
 I'm a graduate of the Wrocław University of Science and Technology (Control Engineering and Robotics at Mechanical Faculty). I worked for a long time at Volvo Buses as a Process Engineer, but decided to change my career path to Software Testing. I found it very interesting and I want to deepen my knowledge in this field. <br>
+
 ## My skills <br>
+### Hard <br>
+:mag: knowledge of the testing process <br>
+:speech_balloon: ability to create queries in SQL <br>
+
+
+### Soft <br>
 :eyes: perceptiveness and quick error detection (like typos, date mistakes) <br>
 :muscle: commitment <br>
 :ok_hand: diligence <br>
+:bulb: creativity <br>
+:thought_balloon: analytical thinking skills <br>
 :couple: good communication skills <br>
 :watch: punctuality <br>
 
