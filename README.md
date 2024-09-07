@@ -26,12 +26,22 @@ I'm a graduate of the Wrocław University of Science and Technology (Control Eng
 
 ## Courses and certificates <br>
 :mortar_board: Certificate ISTQB Foundation Level <br>
-:mortar_board: Course „Tester Oprogramowania (Manualny + Automatyzacja w Pythonie)” by Codebrainers – in progress <br>
+:mortar_board: Course „Software Tester - Manual Tester + Automation in Python" by Codebrainers – in progress <br> <br>
+&nbsp; _scope of the course:_
+* _Testing basics_
+* _Testing techniques_
+* _Test design and documentation_
+* _Testing tools and their use in practice_
+* _Python programming_
+* _Test automation in Python (Pytest)_
+* _API testing in practice_
+* _Web application testing with Selenium_
+
 :mortar_board: Course „Testowanie oprogramowania w praktyce | Bootcamp” at Udemy – in progress <br>
 
 ## Books read about testing <br>
-:book: "Software testing" by Ron Patton <br>
-:book: "Certyfikowany tester ISTQB®. Poziom podstawowy." by Adam Roman, Lucjan Stapp, Michaël Pilaeten <br>
+:book: "Software testing" by Ron Patton [Link](https://tezeusz.pl/testowanie-oprogramowania-ron-patton)<br>
+:book: "Certyfikowany tester ISTQB®. Poziom podstawowy." by Adam Roman, Lucjan Stapp, Michaël Pilaeten [Link](https://helion.pl/ksiazki/certyfikowany-tester-istqb-poziom-podstawowy-wydanie-ii-adam-roman-lucjan-stapp-michael-pilaeten,ctisp2.htm#format/d)<br>
 
 
 ## Connect with me<br>
