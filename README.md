@@ -2,7 +2,7 @@
 ### :bug::bug::bug: Portfolio in work :) :bug::bug::bug:<br>
 
 ## About me <br>
-I'm a graduate of the Wrocław University of Science and Technology (Control Engineering and Robotics at Mechanical Faculty). I worked for a long time at Volvo Buses as a Process Engineer, but decided to change my career path to Software Testing. I found it very interesting and I want to deepen my knowledge in this field. <br>
+I'm a graduate of the Wrocław University of Science and Technology (I finished Control Engineering and Robotics at Mechanical Faculty). I worked for a long time at Volvo Buses as a Process Engineer, but decided to change my career path to Software Testing. I found it very interesting and I want to deepen my knowledge in this field. <br>
 
 ## My skills <br>
 ### Hard <br>
@@ -25,8 +25,8 @@ I'm a graduate of the Wrocław University of Science and Technology (Control Eng
 :fr: French – basics <br>
 
 ## Courses and certificates <br>
-:mortar_board: Certificate ISTQB Foundation Level - passed June 2024 <br>
-:mortar_board: Course „Software Tester - Manual Tester + Automation in Python" by Codebrainers – in progress <br> <br>
+:mortar_board: **Certificate ISTQB Foundation Level** - passed June 2024 <br>
+:mortar_board: Course „**Software Tester - Manual Tester + Automation in Python**" by Codebrainers – in progress <br> <br>
 &nbsp; _scope of the course:_
 * _Testing basics_
 * _Testing techniques_
@@ -37,7 +37,7 @@ I'm a graduate of the Wrocław University of Science and Technology (Control Eng
 * _API testing in practice_
 * _Web application testing with Selenium_
 
-:mortar_board: Course „Testowanie oprogramowania w praktyce | Bootcamp” at Udemy – in progress <br><br>
+:mortar_board: Course „**Testowanie oprogramowania w praktyce | Bootcamp**” at Udemy – in progress <br><br>
 &nbsp; _scope of the course:_
 * _Software testing theory_
 * _Creating test cases_
