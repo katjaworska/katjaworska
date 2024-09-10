@@ -25,7 +25,7 @@ I'm a graduate of the Wrocław University of Science and Technology (Control Eng
 :fr: French – basics <br>
 
 ## Courses and certificates <br>
-:mortar_board: Certificate ISTQB Foundation Level <br>
+:mortar_board: Certificate ISTQB Foundation Level - passed June 2024 <br>
 :mortar_board: Course „Software Tester - Manual Tester + Automation in Python" by Codebrainers – in progress <br> <br>
 &nbsp; _scope of the course:_
 * _Testing basics_
@@ -37,7 +37,26 @@ I'm a graduate of the Wrocław University of Science and Technology (Control Eng
 * _API testing in practice_
 * _Web application testing with Selenium_
 
-:mortar_board: Course „Testowanie oprogramowania w praktyce | Bootcamp” at Udemy – in progress <br>
+:mortar_board: Course „Testowanie oprogramowania w praktyce | Bootcamp” at Udemy – in progress <br><br>
+&nbsp; _scope of the course:_
+* _Software testing theory_
+* _Creating test cases_
+* _Creating Test plans_
+* _Reporting detected defects_
+* _Testing tools overview: Jira, TestLink, XRay, Postman, Browserstack, Devtools, PicPick, ShareX, Jenkins, Docker, Grafana_
+* _Plugins useful for testing - LambdaTest, Resolution Test, Bird Eats Bug, Awesome Screenshot, Clear Cache, IE Tab, Bug Magnet, Page Ruler, EditThisCookie_
+* _Requirement specification_
+* _Visual and functional testing of applications_
+* _API Testing theoretical introduction_
+* _SQL Basics_
+* _Performance testing and Jmeter_
+* _Slack Messenger_
+* _HTML and CSS Basics_
+* _Learning JavaScript_
+* _Cypress Test Automation_
+* _GIT version control system_
+* _Unit testing_
+* _Security testing_
 
 ## Books read about testing <br>
 :book: "Software testing" by Ron Patton [Link](https://tezeusz.pl/testowanie-oprogramowania-ron-patton)<br>
