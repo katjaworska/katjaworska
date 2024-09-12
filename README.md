@@ -9,7 +9,6 @@ I'm a graduate of the Wrocław University of Science and Technology (I finished 
 :mag: knowledge of the testing process <br>
 :speech_balloon: ability to create queries in SQL <br>
 
-
 ### Soft <br>
 :eyes: perceptiveness and quick error detection (like typos, date mistakes) <br>
 :muscle: commitment <br>
@@ -62,6 +61,8 @@ I'm a graduate of the Wrocław University of Science and Technology (I finished 
 :book: "Software testing" by Ron Patton [Link](https://tezeusz.pl/testowanie-oprogramowania-ron-patton)<br>
 :book: "Certyfikowany tester ISTQB®. Poziom podstawowy." by Adam Roman, Lucjan Stapp, Michaël Pilaeten [Link](https://helion.pl/ksiazki/certyfikowany-tester-istqb-poziom-podstawowy-wydanie-ii-adam-roman-lucjan-stapp-michael-pilaeten,ctisp2.htm#format/d)<br>
 
+## Examples of bug reports <br>
+_section in work_<br>
 
 ## Connect with me<br>
 [<img align="left" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/katarzyna-jaworska-b091a32aa/)
