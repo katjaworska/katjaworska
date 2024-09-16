@@ -62,7 +62,9 @@ I'm a graduate of the Wrocław University of Science and Technology (I finished 
 :book: "Certyfikowany tester ISTQB®. Poziom podstawowy." by Adam Roman, Lucjan Stapp, Michaël Pilaeten [Link](https://helion.pl/ksiazki/certyfikowany-tester-istqb-poziom-podstawowy-wydanie-ii-adam-roman-lucjan-stapp-michael-pilaeten,ctisp2.htm#format/d)<br>
 
 ## Examples of bug reports <br>
-_section in work_<br>
+:bug: Bug on IKEA website -> [CLICK!](https://drive.google.com/file/d/1vrHSKYrR2-68o-vUA_6ox8Nx9FMl3rqy/view?usp=sharing)<br>
+:bug: Bug on PKP website -> [CLICK!](https://drive.google.com/file/d/1XNBRkA72dWjOef3IC9-o6Qwl2xNTaV0b/view?usp=sharing)<br>
+:bug: Bug on Wroclaw.pl website -> [CLICK!](https://drive.google.com/file/d/15EsNHxGx8Kaan2WMWL75Pa1Ns-jkLe13/view?usp=sharing)<br>
 
 ## Connect with me<br>
 [<img align="left" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/katarzyna-jaworska-b091a32aa/)
