@@ -6,7 +6,8 @@ I'm a graduate of the Wrocław University of Science and Technology (I finished 
 
 ## My skills <br>
 ### Hard <br>
-:mag: knowledge of the testing process <br>
+:mag: knowledge of the testing process, testing methods, test levels and types <br>
+:page_facing_up: creating bug reports <br>
 :speech_balloon: ability to create queries in SQL <br>
 
 ### Soft <br>
