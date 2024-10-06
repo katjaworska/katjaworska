@@ -9,6 +9,7 @@ I'm a graduate of the Wrocław University of Science and Technology (I finished 
 :mag: knowledge of the testing process, testing methods, test levels and types <br>
 :page_facing_up: creating bug reports <br>
 :speech_balloon: ability to create queries in SQL <br>
+🐍 Python programming skills<br>
 
 ### Soft <br>
 :eyes: perceptiveness and quick error detection (like typos, date mistakes) <br>
