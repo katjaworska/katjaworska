@@ -79,7 +79,7 @@ It's good to have a hobby. I have a few of them, mainly connected with handicraf
 🎿⛵ seasonally also skiing and sailing <br>
 💻 also, in my free time, I test on uTest.com for practice: <br>
 <p align="center">
-  <img width="460" height="400" src="https://i.ibb.co/d4Jcvst/firefox-4-Eu-KFYn-Culx.png">
+  <img width="460" height="400" src="https://i.ibb.co/wcR1zXy/firefox-4-Eu-KFYn-Cul.png">
 </p>  <br>
 
 ## Connect with me<br>
