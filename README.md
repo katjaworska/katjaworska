@@ -4,6 +4,7 @@
 ## About me <br>
 I'm a graduate of the Wrocław University of Science and Technology (I finished Control Engineering and Robotics at Mechanical Faculty). I worked for a long time at Volvo Buses as a Process Engineer, but decided to change my career path to Software Testing. I found it very interesting and I want to deepen my knowledge in this field. <br>
 
+
 ## My skills <br>
 ### Hard <br>
 :mag: knowledge of the testing process, testing methods, test levels and types <br>
@@ -76,6 +77,10 @@ It's good to have a hobby. I have a few of them, mainly connected with handicraf
 🎤 singing <br>
 🎸 playing the ukulele <br>
 🎿⛵ seasonally also skiing and sailing <br>
+💻 also, in my free time, I test on uTest.com for practice: <br>
+<p align="center">
+  <img width="460" height="400" src="https://i.ibb.co/d4Jcvst/firefox-4-Eu-KFYn-Culx.png">
+</p>  <br>
 
 ## Connect with me<br>
 [<img align="left" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/katarzyna-jaworska-b091a32aa/)
