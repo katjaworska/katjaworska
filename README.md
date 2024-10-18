@@ -11,6 +11,8 @@ I'm a graduate of the Wrocław University of Science and Technology (I finished 
 :page_facing_up: creating bug reports <br>
 :speech_balloon: ability to create queries in SQL <br>
 🐍 Python programming skills<br>
+💻 knowledge of API testing
+🕸️ ability to test websites with Selenium
 
 ### Soft <br>
 :eyes: perceptiveness and quick error detection (like typos, date mistakes) <br>
@@ -28,7 +30,7 @@ I'm a graduate of the Wrocław University of Science and Technology (I finished 
 
 ## Courses and certificates <br>
 :mortar_board: **Certificate ISTQB Foundation Level** - passed June 2024 <br>
-:mortar_board: Course „**Software Tester - Manual Tester + Automation in Python**" by Codebrainers – in progress <br> <br>
+:mortar_board: Course „**Software Tester - Manual Tester + Automation in Python**" by Codebrainers – finished with certificate
 &nbsp; _scope of the course:_
 * _Testing basics_
 * _Testing techniques_
