@@ -30,7 +30,7 @@ I'm a graduate of the Wrocław University of Science and Technology (I finished 
 
 ## Courses and certificates <br>
 :mortar_board: **Certificate ISTQB Foundation Level** - passed June 2024 <br>
-:mortar_board: Course „**Software Tester - Manual Tester + Automation in Python**" by Codebrainers – finished with certificate
+:mortar_board: Course „**Software Tester - Manual Tester + Automation in Python**" by Codebrainers – finished with certificate<br><br>
 &nbsp; _scope of the course:_
 * _Testing basics_
 * _Testing techniques_
