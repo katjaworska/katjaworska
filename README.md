@@ -11,8 +11,8 @@ I'm a graduate of the Wrocław University of Science and Technology (I finished 
 :page_facing_up: creating bug reports <br>
 :speech_balloon: ability to create queries in SQL <br>
 🐍 Python programming skills<br>
-💻 knowledge of API testing
-🕸️ ability to test websites with Selenium
+💻 knowledge of API testing <br>
+🕸️ ability to test websites with Selenium<br>
 
 ### Soft <br>
 :eyes: perceptiveness and quick error detection (like typos, date mistakes) <br>
