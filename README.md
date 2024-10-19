@@ -23,11 +23,6 @@ I'm a graduate of the Wrocław University of Science and Technology (I finished 
 :couple: good communication skills <br>
 :watch: punctuality <br>
 
-## Languages <br>
-🇵🇱 Polish – native language <br>
-:gb: English – B2 <br>
-:fr: French – basics <br>
-
 ## Courses and certificates <br>
 :mortar_board: **Certificate ISTQB Foundation Level** - passed June 2024 <br>
 :mortar_board: Course „**Software Tester - Manual Tester + Automation in Python**" by Codebrainers – finished with certificate<br><br>
@@ -65,6 +60,11 @@ I'm a graduate of the Wrocław University of Science and Technology (I finished 
 ## Books read about testing <br>
 :book: "Software testing" by Ron Patton [Link](https://tezeusz.pl/testowanie-oprogramowania-ron-patton)<br>
 :book: "Certyfikowany tester ISTQB®. Poziom podstawowy." by Adam Roman, Lucjan Stapp, Michaël Pilaeten [Link](https://helion.pl/ksiazki/certyfikowany-tester-istqb-poziom-podstawowy-wydanie-ii-adam-roman-lucjan-stapp-michael-pilaeten,ctisp2.htm#format/d)<br>
+
+## Languages <br>
+🇵🇱 Polish – native language <br>
+:gb: English – B2 <br>
+:fr: French – basics <br>
 
 ## Examples of bug reports <br>
 :bug: Bug on IKEA website -> [CLICK!](https://drive.google.com/file/d/1vrHSKYrR2-68o-vUA_6ox8Nx9FMl3rqy/view?usp=sharing)<br>
